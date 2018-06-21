@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## EMG signal processing algorithm platform
+
+Платформа состоит из:
+1. Тренировочные наборы данных и функции для работы с ними. 
+2. Функции для предобработки, обнаружения и классификации сигналов EMG, реализующие различные алгоритмы.
+3. Скрипты для **сравнения** различных алгоритмов.
 
 You can use the [editor on GitHub](https://github.com/estel2/emg/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
